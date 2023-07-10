@@ -1,0 +1,14 @@
+$bg: hsl(27, 90%, 55%);
+$primary: #4c8492;
+$danger: #9d2503;
+@import "bootstrap/scss/bootstrap";
+
+body {
+    background-color: $bg;
+}
+
+.logo {
+    width: 300px;
+    margin: 20px auto;
+    display: block;
+}
